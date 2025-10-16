@@ -6,7 +6,7 @@ static int* tallyLeadingDigits(int data[], int a){
 }
 
 int main(){
-    int n=543;
+    int n=50;
     int digit;
     while(n!=0){
         digit = n%10;
